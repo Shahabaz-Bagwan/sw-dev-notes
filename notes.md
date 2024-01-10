@@ -1,0 +1,1 @@
+- Keep your code easy to change, easy to extend and easy to test. [ref](https://www.youtube.com/watch?v=B4s381OrjWo)
